@@ -1,1 +1,1 @@
- ## https://nurgulchik.github.io/fetch-card/task-16/index.html
+ ## https://nurgulchik.github.io/task-16/fetch-card/index.html
