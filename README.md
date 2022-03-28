@@ -1,1 +1,1 @@
-## https://nurgulchik.github.io/fetch-card/
+## https://nurgulchik.github.io/fetch-card/index.html
